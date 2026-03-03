@@ -40,7 +40,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/anirudh-sharma-09aa5b1b7/"><img src="https://img.shields.io/badge/-Anirudh%20Sharma-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/anirudh-sharma-09aa5b1b7/"><img src="https://img.shields.io/badge/-Linkdein-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="anirudh4656@gmail.com"><img src="https://img.shields.io/badge/-anirudh4656-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/anni_parth11/"><img src="https://img.shields.io/badge/-@anirudh-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
